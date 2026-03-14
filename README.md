@@ -3,7 +3,7 @@
 This project analyzes a dataset of computer science students using SQL queries.
 
 ## Dataset
-The dataset contains information about students including:
+The dataset contai !1ns i Information about students including:
 - Name
 - Gender
 - Age
@@ -16,7 +16,7 @@ The dataset contains information about students including:
 - SELECT
 - WHERE
 - GROUP BY
-- Aggregate Functions (COUNT, AVG, MAX, MIN)
+- Aggregate Func tions (COUNT, AVG, MAX, MIN)
 - ORDER BY
 - LIMIT
 - Subqueries
@@ -41,6 +41,5 @@ The dataset contains information about students including:
 - MySQL
 - SQL
 
-## Tools Used
-- MySQL
-- SQL
+
+
